@@ -1,0 +1,342 @@
+2017::Arquitetura e Urbanismo
+2017::Artes Visuais
+2017::Ciência da Computação – Bacharelado
+2017::Ciência da Computação – Licenciatura
+2017::Ciências Biológicas – Bacharelado
+2017::Ciências Biológicas – Licenciatura
+2017::Ciências Sociais – Bacharelado
+2017::Ciências Sociais – Licenciatura
+2017::Educação Física – Licenciatura
+2017::Engenharia Ambiental
+2017::Engenharia Civil
+2017::Engenharia de Alimentos
+2017::Engenharia de Computação
+2017::Engenharia de Controle e Automação
+2017::Engenharia de Produção
+2017::Engenharia Elétrica
+2017::Engenharia Florestal
+2017::Engenharia Mecânica
+2017::Engenharia Química
+2017::Engenharia
+2017::Filosofia - Bacharelado
+2017::Filosofia – Licenciatura
+2017::Física – Bacharelado
+2017::Física – Licenciatura
+2017::Geografia – Bacharelado
+2017::Geografia – Licenciatura
+2017::História – Bacharelado
+2017::História – Licenciatura
+2017::Letras Inglês – Licenciatura
+2017::Letras Português – Bacharelado
+2017::Letras Português – Licenciatura
+2017::Letras Português Espanhol – Licenciatura
+2017::Letras Português Inglês – Licenciatura
+2017::Matemática – Bacharelado
+2017::Matemática – Licenciatura
+2017::Música – Licenciatura
+2017::Pedagogia
+2017::Química – Bacharelado
+2017::Química – Licenciatura
+2017::Sistema de Informação
+2017::Tecnologia em Análise e Desenvolvimento de Sistemas
+2017::Tecnologia em Gestão da Produção Industrial
+2017::Tecnologia em Gestão da Tecnologia da Informação
+2017::Tecnologia em Redes de Computadores
+2016::Agronomia
+2016::Biomedicina
+2016::Educação Física
+2016::Enfermagem
+2016::Farmácia
+2016::Fisioterapia
+2016::Fonoaudiologia
+2016::Medicina
+2016::Medicina Veterinária
+2016::Nutrição
+2016::Odontologia
+2016::Serviço Social
+2016::Zootecnia
+2016::Tecnologia em Agronegócio
+2016::Tecnologia em Estética e Cosmética
+2016::Tecnologia em Gestão Ambiental
+2016::Tecnologia em Gestão Hospitalar
+2016::Tecnologia em Radiologia
+2015::Administração
+2015::Administração Pública
+2015::Ciências Contábeis
+2015::Ciências Econômicas
+2015::Comunicação Social - Jornalismo
+2015::Comunicação Social - Publicidade e Propaganda
+2015::Design
+2015::Direito
+2015::Psicologia
+2015::Relações Internacionais
+2015::Secretariado Executivo
+2015::Teologia
+2015::Turismo
+2015::Tecnologia em Comércio Exterior
+2015::Tecnologia em Design de Interiores
+2015::Tecnologia em Design de Moda
+2015::Tecnologia em Design Gráfico
+2015::Tecnologia em Gastronomia
+2015::Tecnologia em Gestão Comercial
+2015::Tecnologia em Gestão da Qualidade
+2015::Tecnologia em Gestão de Recursos Humanos
+2015::Tecnologia em Gestão Financeira
+2015::Tecnologia em Gestão Pública
+2015::Tecnologia em Logística
+2015::Tecnologia em Marketing
+2015::Tecnologia em Processos Gerenciais
+2014::Arquitetura e Urbanismo
+2014::Artes Visuais
+2014::Computação Bacharelado
+2014::Computação Licenciatura
+2014::Ciências Biológicas Bacharelado
+2014::Ciências Biológicas Licenciatura
+2014::Educação Física
+2014::Engenharia
+2014::Engenharia Ambiental
+2014::Engenharia Civil
+2014::Engenharia de Alimentos
+2014::Engenharia de Computação
+2014::Engenharia de Controle e Automação
+2014::Engenharia de Produção
+2014::Engenharia Elétrica
+2014::Engenharia Florestal
+2014::Engenharia Mecânica
+2014::Engenharia Química
+2014::Filosofia Bacharelado
+2014::Filosofia Licenciatura
+2014::Física Bacharelado
+2014::Física Licenciatura
+2014::Geografia Bacharelado
+2014::Geografia Licenciatura
+2014::História Bacharelado
+2014::História Licenciatura
+2014::Letras Português Bacharelado
+2014::Letras Português Licenciatura
+2014::Letras Português e Espanhol
+2014::Letras Português e Inglês
+2014::Matemática Bacharelado
+2014::Matemática Licenciatura
+2014::Música
+2014::Pedagogia
+2014::Química Bacharelado
+2014::Química Licenciatura
+2014::Sistemas de Informação
+2014::Tecnologia em Análise e Desenvolvimento de Sistemas
+2014::Tecnologia em Automação Industrial
+2014::Tecnologia em Gestão da Produção Industrial
+2014::Tecnologia em Redes de Computadores
+2013::Agronomia
+2013::Biomedicina
+2013::Educação Física
+2013::Enfermagem
+2013::Farmácia
+2013::Fisioterapia
+2013::Fonoaudiologia
+2013::Medicina
+2013::Medicina Veterinária
+2013::Nutrição
+2013::Odontologia
+2013::Serviço Social
+2013::Zootecnia
+2013::Tecnologia em Agronegócio
+2013::Tecnologia em Gestão Ambiental
+2013::Tecnologia em Gestão Hospitalar
+2013::Tecnologia em Radiologia
+2012::Administração
+2012::Ciências Contábeis
+2012::Ciências Econômicas
+2012::Comunicação Social - Jornalismo
+2012::Comunicação Social - Publicidade e Propaganda
+2012::Design
+2012::Direito
+2012::Psicologia
+2012::Relações Internacionais
+2012::Secretariado Executivo
+2012::Turismo
+2012::Curso Superior de Tecnologia em Gestão Comercial
+2012::Curso Superior de Tecnologia em Recursos Humanos
+2012::Curso de Tecnologia em Gestão Financeira
+2012::Curso de Tecnologia em Logística
+2012::Curso Superior de Tecnologia em Markenting
+2012::Curso Superior de Tecnologia em Processos Gerenciais
+2011::Arquitetura e Urbanismo
+2011::Artes Visuais
+2011::Biologia
+2011::Ciências Sociais
+2011::Computação
+2011::Educação Física
+2011::Engenharia - Grupo I
+2011::Engenharia - Grupo II
+2011::Engenharia - Grupo III
+2011::Engenharia - Grupo IV
+2011::Engenharia - Grupo V
+2011::Engenharia - Grupo VI
+2011::Engenharia - Grupo VII
+2011::Engenharia - Grupo VIII
+2011::Filosofia
+2011::Física
+2011::Geografia
+2011::História
+2011::Letras
+2011::Matemática
+2011::Música
+2011::Pedagogia
+2011::Química
+2011::Tecnologia em Alimentos
+2011::Tecnologia em Análise e Desenvolvimento de Sistemas
+2011::Tecnologia em Automação Industrial
+2011::Tecnologia em Construção de Edifícios
+2011::Tecnologia em Fabricação Mecânica
+2011::Tecnologia em Gestão da Produção Industrial
+2011::Tecnologia em Manutenção Industrial
+2011::Tecnologia em Processos Químicos
+2011::Tecnologia em Redes de Computadores
+2011::Tecnologia em Saneamento Básico
+2010::Formação Geral
+2010::Agronomia
+2010::Biomedicina
+2010::Educação Física
+2010::Enfermagem
+2010::Farmácia
+2010::Fisioterapia
+2010::Fonoaudiologia
+2010::Medicina
+2010::Medicina Veterinária
+2010::Nutrição
+2010::Odontologia
+2010::Serviço Social
+2010::Terapia Ocupacional
+2010::Zootecnia
+2010::Tecnologia em Agroindústria
+2010::Tecnologia em Agronegócio
+2010::Tecnologia em Gestão Ambiental
+2010::Tecnologia em Gestão Hospitalar
+2010::Tecnologia em Radiologia
+2009::Administração
+2009::Arquivologia
+2009::Bibloteconomia
+2009::Ciências Contábeis
+2009::Ciências Econômicas
+2009::Comunicaçãeo Social - Cinema
+2009::Comunicação Social - Editoração
+2009::Comunicação Social - Jornalismo
+2009::Comunicação Social - Publicidade e Propaganda
+2009::Comunicação Social - Radialismo
+2009::Comunicação Social - Relações Públicas
+2009::Design
+2009::Direito
+2009::Estatística
+2009::Formação Geral (Irregulares de anos anteriores)
+2009::Música
+2009::Psicologia
+2009::Relações Internacionais
+2009::Secretariado Executivo
+2009::Teatro
+2009::Turismo
+2009::Tecnologia em Design de Moda
+2009::Tecnologia em Gastronomia
+2009::Tecnologia em Gestão de Recursos Humanos
+2009::Tecnologia em Gestão de Turismo
+2009::Tecnologia em Gestão Financeira
+2009::Tecnologia em Marketing
+2009::Tecnologia em Processos Gerenciais
+2008::Arquitetura e Urbanismo
+2008::Biologia
+2008::Ciências Sociais
+2008::Computação
+2008::Engenharia - Grupo I
+2008::Engenharia - Grupo II
+2008::Engenharia - Grupo III
+2008::Engenharia - Grupo IV
+2008::Engenharia - Grupo V
+2008::Engenharia - Grupo VI
+2008::Engenharia - Grupo VII
+2008::Engenharia - Grupo VIII
+2008::Filosofia
+2008::Física
+2008::Formação Geral
+2008::Geografia
+2008::História
+2008::Letras
+2008::Matemática
+2008::Pedagogia
+2008::Química
+2008::Tecnologia em Construção de Edifícios
+2008::Tecnologia em Alimentos
+2008::Tecnologia em Automação Industrial
+2008::Tecnologia em Gestão da Produção Industrial
+2008::Tecnologia em Manutenção Industrial
+2008::Tecnologia em Processos Químicos
+2008::Tecnologia em Fabricação Mecânica
+2008::Tecnologia em Analise e Desenvolvimento de Sistemas
+2008::Tecnologia em Redes de Computadores
+2008::Tecnologia em Saneamento Ambiental
+2007::Agronomia
+2007::Educação Física
+2007::Enfermagem
+2007::Farmácia
+2007::Fisioterapia
+2007::Formação Geral
+2007::Medicina
+2007::Medicina Veterinária
+2007::Nutrição
+2007::Odontologia
+2007::Serviço Social
+2007::Terapia Ocupacional
+2007::Zootecnia
+2007::Biomedicina
+2007::Tecnologia em Radiologia
+2007::Tecnologia em Agroindústria
+2006::Administração
+2006::Arquivologia
+2006::Biblioteconomia
+2006::Biomedicina
+2006::Ciências Contábeis
+2006::Ciências Econômicas
+2006::Comunicação Social
+2006::Design
+2006::Direito
+2006::Música
+2006::Normal Superior
+2006::Psicologia
+2006::Secretariado Executivo
+2006::Teatro
+2006::Turismo
+2006::Formação Geral
+2005::Arquitetura e Urbanismo
+2005::Biologia
+2005::Ciências Sociais
+2005::Computação
+2005::Engenharia - Grupo I
+2005::Engenharia - Grupo II
+2005::Engenharia - Grupo III
+2005::Engenharia - Grupo IV
+2005::Engenharia - Grupo V
+2005::Engenharia - Grupo VI
+2005::Engenharia - Grupo VII
+2005::Engenharia - Grupo VIII
+2005::Filosofia
+2005::Física
+2005::Geografia
+2005::História
+2005::Letras
+2005::Matemática
+2005::Pedagogia
+2005::Química
+2005::Formação Geral
+2004::Agronomia
+2004::Educação Física
+2004::Enfermagem
+2004::Farmácia
+2004::Fisioterapia
+2004::Fonoaudiologia
+2004::Formação Geral
+2004::Medicina
+2004::Medicina Veterinária
+2004::Nutrição
+2004::Odontologia
+2004::Serviço Social
+2004::Terapia Ocupacional
+2004::Zootecnia
